@@ -1,0 +1,2 @@
+# GenericNasledjivanje
+Napraviti klasu A koja ima metodu printClass koja ispisuje da je ona super klasa A. Potom napraviti klase B i C koje nasleđuju klasu A i imaju svoje implementacije metode printClass koje vraćaju da su pod klase klase A. Napraviti klasu GenericiNasledjivanje koja prima parametar T koji nasleđuje klasu A. Napraviti u ovoj klasi metodu doRunTest koja zove printClass nad prosleđenom T objektu koji nasleđuje A.
